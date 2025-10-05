@@ -10,6 +10,6 @@
 - **Data Streaming & Processing:** Kafka, Flink  
 - **Caching:** Redis  
 - **ML & AI:** PyTorch, Transformers, scikit-learn  
-- **Data Analysis & Viz:** Pandas, Seaborn, Matplotlib  
+- **Data Analysis & Viz:** Pandas, Seaborn, Matplotlib, Plotly  
 
 
