@@ -6,7 +6,7 @@
 ---
 
 ### 🛠 Tech Stack
-- **Backend:** Spring Boot, Java, REST APIs  
+- **Backend:** Spring Boot, Java, Python, Django, REST APIs  
 - **Data Streaming & Processing:** Kafka, Flink  
 - **Caching:** Redis  
 - **ML & AI:** PyTorch, Transformers, scikit-learn  
